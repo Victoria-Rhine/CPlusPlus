@@ -1,0 +1,6 @@
+Algorithms Lab 1 
+Part 1: Reads data from file into array. Adds values in array to check if read in correctly. 
+Part 2: Sorts array using Merge Sort. 
+Part 3: Sorts array using Quick Sort. 
+Part 4: Checks if given array is sorted in increasing order. 
+Part 5: Times previous steps.

@@ -1,0 +1,10 @@
+1. Implement the DP version of MCM algorithm. Show commented code.
+2. Implement the memoization version of MCM algorithm, using -1 for ∞. Show commented code.
+3. Show the output for your DP version of MCM algorithm for p being < 30, 4, 8, 5, 10, 25, 15>, including
+where the parenthesis should be located.
+4. Show the output for your memoization version of MCM algorithm for p being < 30, 4, 8, 5, 10, 25, 15>,
+including where the parenthesis should be located.
+5. Implement a breadth first search using an adjacency list. Show commented code.
+6. Implement a breadth first search using an adjacency matrix. Show commented code.
+7. Show the output for the bfs using the adjacency list on the graph below.
+8. Show the output for the bfs using the adjacency matrix on the graph below. 

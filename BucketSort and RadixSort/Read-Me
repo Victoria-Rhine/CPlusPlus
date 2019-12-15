@@ -1,0 +1,8 @@
+1. Implements Radix Sort to sort 10,000,000 values
+2. Implements Bucket Sort to sort 10,000,000 values
+3. Check if arrays are sorted
+4. Bring in Quick Sort from previous lab to compare against Radix and Bucket
+5. (Separately) Run program 3 times, documenting data in a spreadsheet
+6. Uses recursive algorithm to display 10 largest from unsorted array
+7. Calls Radix Sort on unsorted array, then function for 10 largest (results from 6 and 7 should match)
+8. Repeat number 5 for 6 and 7
